@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/felores-placid-mcp-server-badge.png)](https://mseep.ai/app/felores-placid-mcp-server)
+
 # Placid.app MCP Server
 [![smithery badge](https://smithery.ai/badge/@felores/placid-mcp-server)](https://smithery.ai/server/@felores/placid-mcp-server)
 
